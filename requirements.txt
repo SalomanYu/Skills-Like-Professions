@@ -1,0 +1,2 @@
+multiprocess==0.70.13
+xlrd==1.2.0
